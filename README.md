@@ -1,3 +1,9 @@
+<div id="header" align="center">
+  <img src="https://github.com/MarGlez10/MarGlez10/blob/main/GitHub%20Marlen.png" width="800"/>
+</div>
+
+<div id="badges" align="center">
+
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlenglezb/) 
 
 # Hola, soy Marlen. ¡Encantada de conocerte! 👋
