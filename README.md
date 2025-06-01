@@ -6,8 +6,13 @@
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlenglezb/) 
 
-# Hola, soy Marlen. ¡Encantada de conocerte! 👋
+   <h1>
+  Hola soy Marlen. ¡Encantada de conocerte! 👋
+</h1>
 
+---
+ <div id="header" align="left">
+   
 ### ✨Sobre mí:
 
 Analista de datos en continuo aprendizaje. Apasionada por descubrir insights y contar historias con datos.  
@@ -26,7 +31,6 @@ Hace un año comencé un bootcamp en TripleTen, donde aprendí Python, SQL y Tab
 
 ## 💻 Habilidades técnicas:
 <div id="header" align="left">
-
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
   </a>
     <img src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
