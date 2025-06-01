@@ -1,5 +1,5 @@
 # Hola, soy Marlen. ¡Encantada de conocerte! 👋
-### Soy analista de datos en continuo aprendizaje, con conocimientos en Python, SQL y Tableau. Apasionado por descubrir insights y contar historias con datos.  
+### Soy analista de datos en continuo aprendizaje, con conocimientos en Python, SQL y Tableau. Apasionada por descubrir insights y contar historias con datos.  
 
 ✨ Tengo una sólida trayectoria como emprendedora. Desde que salí de la universidad me he dedicado a desarrollar y hacer crecer mis propios negocios. 😊
 
@@ -17,4 +17,4 @@ https://img.shields.io/badge/SQL-8A2BE2
 https://img.shields.io/badge/Tableau-8A2BE2
 https://img.shields.io/badge/Excel-8A2BE2
 ## 📫 Cómo contactarme:
-marlen.glezb@gmail.com https://www.linkedin.com/in/marlenglezb/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marlen_Gonzalez-007B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/marlenglezb/)]
