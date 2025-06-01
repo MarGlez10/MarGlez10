@@ -22,10 +22,11 @@ Hace un año comencé un bootcamp en TripleTen, donde aprendí Python, SQL y Tab
 
 ⚡ Dato curioso: Actualmente dirijo una heladería/cafetería que logré sistematizar y convertir en un negocio rentable.
 
+---
 
+## 💻 Habilidades técnicas:
 <div id="header" align="left">
 
-  ## 💻 Habilidades técnicas:
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
   </a>
     <img src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
