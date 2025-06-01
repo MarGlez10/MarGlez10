@@ -17,4 +17,5 @@ https://img.shields.io/badge/SQL-8A2BE2
 https://img.shields.io/badge/Tableau-8A2BE2
 https://img.shields.io/badge/Excel-8A2BE2
 ## 📫 Cómo contactarme:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marlen_Gonzalez-007B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/marlenglezb/)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marlen_Gonzalez-007B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/marlenglezb/)
+[![Gmail](https://img.shields.io/badge/Gmail-marlen.gonzalezb-007B5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](<a href="mailto:tu_correo@example.com">Envíame un correo</a>)
