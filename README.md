@@ -13,13 +13,13 @@
 ---
  <div id="header" align="left">
    
-### ✨Sobre mí:
+## ✨Sobre mí:
 
 Analista de datos en continuo aprendizaje. Apasionada por descubrir insights y contar historias con datos.  
 
 Tengo una sólida trayectoria como emprendedora. Desde que salí de la universidad me he dedicado a desarrollar y hacer crecer mis propios negocios. 😊
 
-Siempre me ha apasionado la parte analítica: los números, diseñar estrategias, resolver problemas y tomar decisiones basadas en datos. Esa curiosidad constante por aprender me llevó a descubrir el mundo del análisis de datos, y me fascinó cómo los datos pueden contar historias y guiarnos hacia decisiones más inteligentes. 📊
+Siempre me apasionó la parte analítica de los negocios: los números, diseñar estrategias, resolver problemas y tomar decisiones basadas en datos. Esa curiosidad constante por aprender me llevó a descubrir el mundo del análisis de datos, y me fascinó cómo los datos pueden contar historias y guiarnos hacia decisiones más inteligentes. 📊
 
 Hace un año comencé un bootcamp en TripleTen, donde aprendí Python, SQL y Tableau. Actualmente sigo perfeccionando mis habilidades y busco una oportunidad remota que me permita seguir creciendo como analista de datos.
 
